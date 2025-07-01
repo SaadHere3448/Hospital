@@ -251,3 +251,62 @@ table{
         font-size: 16px;
     }
 }
+/* 🌐 Responsive Styling for Doctor Articles */
+@media (max-width: 768px) {
+
+    .articles {
+        width: 95%;
+        margin: 10px 0;
+    }
+
+    .ar-img-cont {
+        justify-content: center;
+        margin-bottom: 15px;
+    }
+
+    .ar-img {
+        width: 80%;
+        max-width: 300px;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .ar-text {
+        padding: 10px;
+    }
+
+    .ar-p-text {
+        font-size: 16px;
+        text-indent: 0;
+        text-align: center;
+        padding: 5px 10px;
+    }
+
+    .ar-text h1 {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    footer {
+        font-size: 16px;
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 480px) {
+    .ar-p-text {
+        font-size: 14px;
+    }
+
+    .ar-text h1 {
+        font-size: 16px;
+    }
+
+    .ar-img {
+        width: 90%;
+    }
+
+    footer {
+        font-size: 14px;
+    }
+}
