@@ -231,14 +231,14 @@ footer {
 
     table {
         width: 100%;
-        font-size: 13px;
-            border: 2px, solid, black;
+        font-size: 10px;
+        border: 2px, solid, black;
         margin: 10px auto 80px;
     }
 
     th,
     td {
-        padding: 8px;
+        padding: 2px;
         text-align: center;
     }
 
@@ -310,14 +310,14 @@ footer {
     }
 
     table {
-        font-size: 11px;
-            border: 2px, solid, black;
+        font-size: 8px;
+        border: 2px, solid, black;
         width: 100%;
     }
 
     th,
     td {
-        padding: 6px;
+        padding: 1px;
     }
 
     table img {
@@ -362,8 +362,8 @@ footer {
     }
 
     table {
-        font-size: 10px;
-            border: 2px, solid, black;
+        font-size: 6px;
+        border: 2px, solid, black;
     }
 
     table img {
@@ -372,7 +372,7 @@ footer {
 
     th,
     td {
-        padding: 5px;
+        padding: 0.5px;
     }
 
     .ar-img {
